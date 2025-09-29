@@ -1,87 +1,70 @@
-<!-- HEADER BANNER -->
+<!-- HEADER ANIMATION -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F7971E,100:FFD200&height=200&section=header&text=Mohammad%20Jabbary%20👨‍💻&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
-</p>
-
-<!-- Typing Animation -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Web+Developer+%7C+Python+%7C+Django;Security+Enthusiast+%7C+Data+Analyst;Full-Stack+Developer+%7C+Open+Source+Lover">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Hi+👋+I'm+Mohammad+Jabbary;Full-Stack+Developer;Python+🐍+%7C+Django+%7C+React;Security+%26+Data+Analysis+Enthusiast" />
 </p>
 
 ---
 
-## 💻 About Me  
-- 🎓 **Computer Science Graduate** – Jazan University  
-- 🐍 Passionate about **Python & Django Full-Stack Development**  
-- ⚡ Skilled in **REST APIs, Databases, and CI/CD pipelines**  
-- 📊 Experienced in **Data Analysis and Statistics**  
-- 🔐 Interested in **Web Security & Penetration Testing Tools**  
+## 👨‍💻 About Me
+- 🎓 CS Graduate – **Jazan University**  
+- 🐍 Skilled in **Python, Django, REST APIs**  
+- 🛢 Strong with **PostgreSQL, SQLite, Oracle**  
+- 🚀 Focused on **Full-Stack Development & Security Tools**  
+- 📊 Experienced in **Data Analysis & CI/CD Pipelines**  
 
 ---
 
-## 🛠 Tech Stack  
+## 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,python,django,nodejs&perline=8" /><br>
-  <img src="https://skillicons.dev/icons?i=postgresql,sqlite,oracle,mysql&perline=6" /><br>
-  <img src="https://skillicons.dev/icons?i=git,github,linux,docker,vscode&perline=6" />
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="200" alt="coding" />
+  <img src="https://skillicons.dev/icons?i=python,django,react,nodejs,html,css,js,bootstrap&theme=light" /><br>
+  <img src="https://skillicons.dev/icons?i=postgresql,sqlite,oracle,mysql&theme=light" /><br>
+  <img src="https://skillicons.dev/icons?i=git,github,linux,docker,vscode&theme=light" />
 </p>
 
 ---
 
-## 🚀 Featured Projects (Dynamic)  
-
-<p align="center">
-  <a href="https://github.com/Moh0py/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Moh0py&repo=github-readme-stats&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/Moh0py/portfolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Moh0py&repo=portfolio&theme=tokyonight" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Moh0py?tab=repositories">
-    👉 View All My Projects 👈
-  </a>
-</p>
+## 🚀 Featured Projects
+- 🔐 [**Pentest Toolkit**](https://github.com/Moh0py/pentest-toolkit) – Custom penetration testing utilities  
+- 🌐 [**Portfolio Website**](https://github.com/Moh0py/portfolio) – Responsive portfolio with modern UI  
+- 📊 [**Data Dashboard**](https://github.com/Moh0py/dashboard) – Interactive analytics dashboard (Django + PostgreSQL)  
 
 ---
 
-## 📊 GitHub Stats  
-
+## 📈 GitHub Stats & Trophies
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Moh0py&show_icons=true&theme=tokyonight&count_private=true" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Moh0py&show_icons=true&theme=tokyonight" height="180em"/>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Moh0py&theme=tokyonight" height="180em"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Moh0py&theme=onedark&row=1&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Moh0py&theme=tokyonight&row=1&column=6" />
 </p>
 
 ---
 
-## 🌍 Connect With Me  
+## 🏆 Achievements
+- 🎖 Python Web Development – Tuwaiq Academy  
+- 🎖 Data Analysis (Advanced Excel)  
+- 🎖 Database Administration (Oracle & SQL)  
 
+---
+
+## 🌍 Connect With Me
 <p align="center">
   <a href="https://linkedin.com/in/mohammed1jabber">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" />
   </a>
   <a href="mailto:w9.20063@gmail.com">
-    <img src="https://img.shields.io/badge/-Email%20Me-D14836?style=for-the-badge&logo=Gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" />
   </a>
   <a href="https://github.com/Moh0py">
-    <img src="https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
 ---
 
-<!-- FOOTER BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD200,100:F7971E&height=120&section=footer" />
+  ⚡ *"Code. Secure. Innovate."* ⚡
 </p>
